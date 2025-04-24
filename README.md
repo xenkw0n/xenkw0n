@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+"I am not a developer."
+
+I enjoy being an engineer and building solutions/tools as a hobby, not a full-time job.
+
+Expect a wide-range of projects associated with my account (i.e., Websites, Desktop Applications, Data Science Projects, Cryptocurrency/Blockchain Coding Projects, and Analytical/Business Intelligence Reporting Tools). 
+
 <!--
 **xenkw0n/xenkw0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
